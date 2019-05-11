@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Used librairies
+
+- [Create React App](https://github.com/facebook/create-react-app) to bootstrap React application. It comes with Jest to launch tests.
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) aims to test components with a "user-like" approach.
+- [Jest Dom](https://github.com/testing-library/jest-dom) simplifies DOM assertions with Jest.
+
+## Inspirations
+
+My main inspiration about this livre coding was articles written by [Kent C Dodds](https://kentcdodds.com/blog). I invite you to read his articles, most of them are about React.
 
 ## Available Scripts
 
